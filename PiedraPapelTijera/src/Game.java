@@ -12,7 +12,7 @@ public class Game {
 	}
 
 	private void welcome() {
-		System.out.println("Bienvenido a nuestro pequeño juego: Piedra Papel Tijeras Torito Saepia:-D");
+		System.out.println("Bienvenido a nuestro pequeño juego: Piedra Papel Tijeras :-D");
 	}
 
 	private void printHelp() {
